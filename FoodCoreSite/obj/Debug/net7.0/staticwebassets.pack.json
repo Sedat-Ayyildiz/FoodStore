@@ -1,0 +1,1685 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\about.html",
+      "PackagePath": "staticwebassets\\ContentTemplate\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\bread.html",
+      "PackagePath": "staticwebassets\\ContentTemplate\\bread.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\checkout.html",
+      "PackagePath": "staticwebassets\\ContentTemplate\\checkout.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\ContentTemplate\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\css\\creditly.css",
+      "PackagePath": "staticwebassets\\ContentTemplate\\css\\creditly.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\css\\easy-responsive-tabs.css",
+      "PackagePath": "staticwebassets\\ContentTemplate\\css\\easy-responsive-tabs.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\ContentTemplate\\css\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\ContentTemplate\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\css\\style.css",
+      "PackagePath": "staticwebassets\\ContentTemplate\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\drinks.html",
+      "PackagePath": "staticwebassets\\ContentTemplate\\drinks.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\events.html",
+      "PackagePath": "staticwebassets\\ContentTemplate\\events.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\faqs.html",
+      "PackagePath": "staticwebassets\\ContentTemplate\\faqs.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\ContentTemplate\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\ContentTemplate\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\ContentTemplate\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\ContentTemplate\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\ContentTemplate\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\ContentTemplate\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\frozen.html",
+      "PackagePath": "staticwebassets\\ContentTemplate\\frozen.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\household.html",
+      "PackagePath": "staticwebassets\\ContentTemplate\\household.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\1.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\10.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\10.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\11.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\12.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\12.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\13.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\13.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\14.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\14.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\15.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\15.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\16.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\16.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\17.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\17.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\18.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\18.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\19.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\19.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\2.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\20.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\20.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\21.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\21.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\22.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\22.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\23.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\23.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\24.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\24.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\25.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\25.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\26.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\26.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\27.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\27.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\28.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\28.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\29.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\29.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\3.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\30.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\30.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\31.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\31.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\32.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\32.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\33.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\33.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\34.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\34.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\35.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\35.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\36.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\37.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\38.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\39.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\4.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\40.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\41.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\42.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\43.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\44.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\44.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\45.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\45.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\46.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\46.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\47.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\47.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\48.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\48.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\49.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\49.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\5.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\50.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\50.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\51.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\51.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\52.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\52.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\53.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\53.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\54.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\54.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\55.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\55.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\56.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\56.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\57.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\57.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\58.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\58.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\59.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\59.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\6.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\60.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\60.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\61.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\61.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\62.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\62.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\63.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\63.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\64.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\64.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\65.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\65.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\66.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\66.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\67.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\67.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\68.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\68.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\69.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\69.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\7.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\70.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\70.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\71.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\71.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\72.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\72.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\73.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\73.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\74.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\74.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\75.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\75.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\76.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\76.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\8.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\9.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\card.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\card.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\cart.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\close_1.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\close_1.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\img-sp.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\img-sp.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\offer.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\offer.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\paypal.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\star.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\star.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\star1.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\star1.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\images\\tag.png",
+      "PackagePath": "staticwebassets\\ContentTemplate\\images\\tag.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\index.html",
+      "PackagePath": "staticwebassets\\ContentTemplate\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\ContentTemplate\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\js\\counterup.min.js",
+      "PackagePath": "staticwebassets\\ContentTemplate\\js\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\js\\creditly.js",
+      "PackagePath": "staticwebassets\\ContentTemplate\\js\\creditly.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\js\\easing.js",
+      "PackagePath": "staticwebassets\\ContentTemplate\\js\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\js\\easyResponsiveTabs.js",
+      "PackagePath": "staticwebassets\\ContentTemplate\\js\\easyResponsiveTabs.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\js\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\ContentTemplate\\js\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\js\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\ContentTemplate\\js\\jquery.flexslider.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\js\\jquery.wmuSlider.js",
+      "PackagePath": "staticwebassets\\ContentTemplate\\js\\jquery.wmuSlider.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\js\\minicart.js",
+      "PackagePath": "staticwebassets\\ContentTemplate\\js\\minicart.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\ContentTemplate\\js\\move-top.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\js\\okzoom.js",
+      "PackagePath": "staticwebassets\\ContentTemplate\\js\\okzoom.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\ContentTemplate\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\kitchen.html",
+      "PackagePath": "staticwebassets\\ContentTemplate\\kitchen.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\login.html",
+      "PackagePath": "staticwebassets\\ContentTemplate\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\mail.html",
+      "PackagePath": "staticwebassets\\ContentTemplate\\mail.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\payment.html",
+      "PackagePath": "staticwebassets\\ContentTemplate\\payment.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\pet.html",
+      "PackagePath": "staticwebassets\\ContentTemplate\\pet.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\privacy.html",
+      "PackagePath": "staticwebassets\\ContentTemplate\\privacy.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\products.html",
+      "PackagePath": "staticwebassets\\ContentTemplate\\products.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\services.html",
+      "PackagePath": "staticwebassets\\ContentTemplate\\services.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\short-codes.html",
+      "PackagePath": "staticwebassets\\ContentTemplate\\short-codes.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\single.html",
+      "PackagePath": "staticwebassets\\ContentTemplate\\single.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\ContentTemplate\\vegetables.html",
+      "PackagePath": "staticwebassets\\ContentTemplate\\vegetables.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Images\\df0857da-98d8-407f-89e5-5a78c3ec01b8.jpg",
+      "PackagePath": "staticwebassets\\Images\\df0857da-98d8-407f-89e5-5a78c3ec01b8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\css\\main.css",
+      "PackagePath": "staticwebassets\\Login\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\css\\util.css",
+      "PackagePath": "staticwebassets\\Login\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\Login\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\Login\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\Login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\Login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\Login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\Login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\images\\Login.png",
+      "PackagePath": "staticwebassets\\Login\\images\\Login.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\Login\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\index.html",
+      "PackagePath": "staticwebassets\\Login\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\js\\main.js",
+      "PackagePath": "staticwebassets\\Login\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\Login\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\Yeni Metin Belgesi.txt",
+      "PackagePath": "staticwebassets\\web2\\Yeni Metin Belgesi.txt"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\web2\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\css\\clndr.css",
+      "PackagePath": "staticwebassets\\web2\\css\\clndr.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\css\\jqvmap.css",
+      "PackagePath": "staticwebassets\\web2\\css\\jqvmap.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\css\\nav.css",
+      "PackagePath": "staticwebassets\\web2\\css\\nav.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\css\\style.css",
+      "PackagePath": "staticwebassets\\web2\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\images\\ar2.png",
+      "PackagePath": "staticwebassets\\web2\\images\\ar2.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\images\\arrows.png",
+      "PackagePath": "staticwebassets\\web2\\images\\arrows.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\images\\avatar.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\images\\avatar1.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\avatar1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\images\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\avatar2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\images\\img-sprite.png",
+      "PackagePath": "staticwebassets\\web2\\images\\img-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\images\\into.png",
+      "PackagePath": "staticwebassets\\web2\\images\\into.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\images\\into1.png",
+      "PackagePath": "staticwebassets\\web2\\images\\into1.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\images\\logo.png",
+      "PackagePath": "staticwebassets\\web2\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\images\\pp.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\pp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\images\\pp0.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\pp0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\images\\pp01.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\pp01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\images\\settings.png",
+      "PackagePath": "staticwebassets\\web2\\images\\settings.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\images\\tick-mark.png",
+      "PackagePath": "staticwebassets\\web2\\images\\tick-mark.png"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\index.html",
+      "PackagePath": "staticwebassets\\web2\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\js\\Chart1.js",
+      "PackagePath": "staticwebassets\\web2\\js\\Chart1.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\js\\clndr.js",
+      "PackagePath": "staticwebassets\\web2\\js\\clndr.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\js\\easyResponsiveTabs.js",
+      "PackagePath": "staticwebassets\\web2\\js\\easyResponsiveTabs.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\js\\jquery.easydropdown.js",
+      "PackagePath": "staticwebassets\\web2\\js\\jquery.easydropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\web2\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\js\\jquery.nicescroll.js",
+      "PackagePath": "staticwebassets\\web2\\js\\jquery.nicescroll.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\js\\jquery.vmap.js",
+      "PackagePath": "staticwebassets\\web2\\js\\jquery.vmap.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\js\\jquery.vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\web2\\js\\jquery.vmap.sampledata.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\js\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\web2\\js\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\js\\main.js",
+      "PackagePath": "staticwebassets\\web2\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\js\\moment-2.2.1.js",
+      "PackagePath": "staticwebassets\\web2\\js\\moment-2.2.1.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\js\\site.js",
+      "PackagePath": "staticwebassets\\web2\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\js\\underscore-min.js",
+      "PackagePath": "staticwebassets\\web2\\js\\underscore-min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\resimler\\book1.jpg",
+      "PackagePath": "staticwebassets\\web2\\resimler\\book1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\resimler\\book2.jpg",
+      "PackagePath": "staticwebassets\\web2\\resimler\\book2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\resimler\\book3.jpg",
+      "PackagePath": "staticwebassets\\web2\\resimler\\book3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\resimler\\book4.jpg",
+      "PackagePath": "staticwebassets\\web2\\resimler\\book4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\resimler\\book5.jpg",
+      "PackagePath": "staticwebassets\\web2\\resimler\\book5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\resimler\\img1.jpg",
+      "PackagePath": "staticwebassets\\web2\\resimler\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEDAT AYYILDIZ\\source\\repos\\FoodCoreSite\\FoodCoreSite\\wwwroot\\web2\\w3layouts-License.txt",
+      "PackagePath": "staticwebassets\\web2\\w3layouts-License.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.FoodCoreSite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.FoodCoreSite.props",
+      "PackagePath": "build\\FoodCoreSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.FoodCoreSite.props",
+      "PackagePath": "buildMultiTargeting\\FoodCoreSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.FoodCoreSite.props",
+      "PackagePath": "buildTransitive\\FoodCoreSite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
